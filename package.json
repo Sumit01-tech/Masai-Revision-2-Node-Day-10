@@ -1,0 +1,24 @@
+{
+  "name": "masai-revision-2-node-day-10",
+  "version": "1.0.0",
+  "description": "MongoDB is a NoSQL, document-oriented database that stores data in flexible JSON-like documents. Unlike relational databases, it does not use tables, rows, or fixed schemas and avoids joins by storing related data together.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sumit01-tech/Masai-Revision-2-Node-Day-10.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sumit01-tech/Masai-Revision-2-Node-Day-10/issues"
+  },
+  "homepage": "https://github.com/Sumit01-tech/Masai-Revision-2-Node-Day-10#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
